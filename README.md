@@ -7,6 +7,4 @@ Linguagem: Python
 
 _libs: requests; Beautifulsoup; pandas_
 
-Desenvolvido no Google Colaboratory. 
-
-Para acessar clique [aqui](https://github.com/ferkrum/web-scraper-de-manchetes-e-links-de-noticias-para-arquivo-CSV/blob/main/Web_scraper_manchetes_atualizadas_para_arquivo_csv.ipynb). 
+Desenvolvido no Google Colaboratory. Para acessar clique [aqui](https://github.com/ferkrum/web-scraper-de-manchetes-e-links-de-noticias-para-arquivo-CSV/blob/main/Web_scraper_manchetes_atualizadas_para_arquivo_csv.ipynb). 
