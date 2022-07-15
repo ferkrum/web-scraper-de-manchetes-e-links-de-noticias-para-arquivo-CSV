@@ -6,4 +6,5 @@
 Linguagem: Python
 
 _libs: requests; Beautifulsoup; pandas_
+
 Desenvolvido no Google Colaboratory. Para acessar clique [aqui](). 
